@@ -1,0 +1,12 @@
+N:\Projects\FullContact\FullContact.Contracts\bin\Debug\netcoreapp2.0\FullContact.Contracts.deps.json
+N:\Projects\FullContact\FullContact.Contracts\bin\Debug\netcoreapp2.0\FullContact.Contracts.dll
+N:\Projects\FullContact\FullContact.Contracts\bin\Debug\netcoreapp2.0\FullContact.Contracts.pdb
+N:\Projects\FullContact\FullContact.Contracts\obj\Debug\netcoreapp2.0\FullContact.Contracts.csprojResolveAssemblyReference.cache
+N:\Projects\FullContact\FullContact.Contracts\obj\Debug\netcoreapp2.0\FullContact.Contracts.csproj.CoreCompileInputs.cache
+N:\Projects\FullContact\FullContact.Contracts\obj\Debug\netcoreapp2.0\FullContact.Contracts.AssemblyInfoInputs.cache
+N:\Projects\FullContact\FullContact.Contracts\obj\Debug\netcoreapp2.0\FullContact.Contracts.AssemblyInfo.cs
+N:\Projects\FullContact\FullContact.Contracts\obj\Debug\netcoreapp2.0\FullContact.Contracts.dll
+N:\Projects\FullContact\FullContact.Contracts\obj\Debug\netcoreapp2.0\FullContact.Contracts.pdb
+N:\Projects\FullContact\bin\Debug\netcoreapp2.0\FullContact.Contracts.deps.json
+N:\Projects\FullContact\bin\Debug\netcoreapp2.0\FullContact.Contracts.dll
+N:\Projects\FullContact\bin\Debug\netcoreapp2.0\FullContact.Contracts.pdb

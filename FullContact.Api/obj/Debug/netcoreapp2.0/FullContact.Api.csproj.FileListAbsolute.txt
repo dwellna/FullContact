@@ -1,0 +1,14 @@
+N:\Projects\FullContact\FullContact.Api\bin\Debug\netcoreapp2.0\FullContact.Contracts.dll
+N:\Projects\FullContact\FullContact.Api\obj\Debug\netcoreapp2.0\FullContact.Api.csprojResolveAssemblyReference.cache
+N:\Projects\FullContact\FullContact.Api\obj\Debug\netcoreapp2.0\FullContact.Api.csproj.CoreCompileInputs.cache
+N:\Projects\FullContact\FullContact.Api\obj\Debug\netcoreapp2.0\FullContact.Api.AssemblyInfoInputs.cache
+N:\Projects\FullContact\FullContact.Api\obj\Debug\netcoreapp2.0\FullContact.Api.AssemblyInfo.cs
+N:\Projects\FullContact\FullContact.Api\bin\Debug\netcoreapp2.0\FullContact.Api.deps.json
+N:\Projects\FullContact\FullContact.Api\bin\Debug\netcoreapp2.0\FullContact.Api.dll
+N:\Projects\FullContact\FullContact.Api\bin\Debug\netcoreapp2.0\FullContact.Api.pdb
+N:\Projects\FullContact\FullContact.Api\bin\Debug\netcoreapp2.0\FullContact.Contracts.pdb
+N:\Projects\FullContact\FullContact.Api\obj\Debug\netcoreapp2.0\FullContact.Api.dll
+N:\Projects\FullContact\FullContact.Api\obj\Debug\netcoreapp2.0\FullContact.Api.pdb
+N:\Projects\FullContact\bin\Debug\netcoreapp2.0\FullContact.Api.deps.json
+N:\Projects\FullContact\bin\Debug\netcoreapp2.0\FullContact.Api.dll
+N:\Projects\FullContact\bin\Debug\netcoreapp2.0\FullContact.Api.pdb
